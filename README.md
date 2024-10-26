@@ -1,4 +1,4 @@
-# 基于阿里云AI Earth进行两广地区的野火易发性分析
+# 基于阿里云AI Earth分析广西壮族自治区桂林市全州县地物覆盖类型
 
 什么是[阿里云AI Earth](https://engine-aiearth.aliyun.com/)?
 
